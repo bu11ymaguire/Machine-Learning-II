@@ -1,7 +1,4 @@
 
-
----
-
 # 선형 회귀, 최소제곱해, 그리고 투영의 관계 📝
 
 > 머신러닝의 **선형 회귀(Linear Regression)** 모델은 어떻게 데이터에 가장 적합한 선을 찾을까요? 그 해답은 선형대수학의 **최소제곱해(Least Squares Solution)**와 **정사영(Orthogonal Projection)** 개념에 깊이 뿌리내리고 있습니다.
